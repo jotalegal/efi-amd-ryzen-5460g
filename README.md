@@ -1,0 +1,1 @@
+# efi-amd-ryzen-5460g
